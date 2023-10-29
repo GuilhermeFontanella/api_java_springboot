@@ -42,4 +42,5 @@ public class MedicoController {
         System.out.println(medico);
         medico.excluir(medico);
     }
+    //teste
 }
